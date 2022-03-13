@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Alamin",
+    "id": "101",
+    "department": "CSE"
+  },
+  {
+    "name": "Taiful",
+    "id": "102",
+    "department": "EEE"
+  },
+  {
+    "name": "Jamil",
+    "id": "104",
+    "department": "Hossain"
+  },
+  {
+    "name": "Kamal",
+    "id": "105",
+    "department": "Civil"
+  }
+]
